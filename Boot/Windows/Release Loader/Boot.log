@@ -1,0 +1,9 @@
+﻿Build started 07.05.2013 21:30:56.
+     1>Project "D:\projects\active\tc-71-a-2010\Boot\Windows\Boot.vcxproj" on node 2 (clean target(s)).
+     1>CoreClean:
+         del /q /s Release Release_AES Release_Serpent Release_Twofish >NUL:
+     1>Done Building Project "D:\projects\active\tc-71-a-2010\Boot\Windows\Boot.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
