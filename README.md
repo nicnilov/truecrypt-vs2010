@@ -9,7 +9,7 @@ Please note that although the source code itself is not modified in any way, the
 
 **Added projects**
 
-The solution contains two additional projects - Api and ApiTest. These are not part of original TrueCrypt source and represent my attempt to create an API layer for TrueCrypt. Although the attempt had been initially successful, it became clear to me that the original TrueCrypt code structure is not suited very well for a neat extension the way I hoped it'd be, that is without modifying original code base. So I decided to move on with this project in separate repository, leaving this one in its current state. If for a reason you find these projects unnecessary, please feel free to remove them from the solution. There are no dependencies to watch for.
+The solution contains two additional projects - Api and ApiTest. These are not part of original TrueCrypt source and represent my attempt to create an API layer for TrueCrypt. Although the attempt had been initially successful, it became clear to me that the original TrueCrypt code structure is not suited very well for a neat extension the way I hoped it'd be, that is without modifying original code base. So I decided to move on with this project in separate [repository]("https://github.com/nightnic/truecrypt-api" "truecrypt-api"), leaving this one in its current state. If for a reason you find these projects unnecessary, please feel free to remove them from the solution. There are no dependencies to watch for.
 
 **Unsigned drivers**
 
