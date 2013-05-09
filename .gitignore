@@ -3,6 +3,7 @@
 *.suo
 *.sdf
 *.opensdf
+ipch/
 
 # COM Auto-generated Sources
 *_h.h
