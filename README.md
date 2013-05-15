@@ -1,7 +1,7 @@
 truecrypt-vs2010
 ================
 
-This is a copy of [TrueCrypt](http://www.truecrypt.org/ "TrueCrypt") 7.1a sources available from [TrueCrypt Source Download Page](http://www.truecrypt.org/downloads2 "TrueCrypt Source Download Page") updated to be compiled in Visual Studio 2010.
+This is a copy of [TrueCrypt](http://www.truecrypt.org/ "TrueCrypt") 7.1a sources available from [TrueCrypt Source Download Page](http://www.truecrypt.org/downloads2 "TrueCrypt Source Download Page") configured to be compiled in Visual Studio 2010.
 
 Please note that although the source code itself is not modified in any way, there were a number of solution's and projects' configuration adjustments made in order to allow for clean compile in VS2010. This and the fact I did no testing whatsoever, appeal for caution on the part of the user.
 
